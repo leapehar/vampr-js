@@ -55,6 +55,28 @@ class Vampire {
 
 
   }
+
+  // Returns the vampire object with that name, or null if no vampire exists with that name
+  vampireWithName(name) {
+
+
+
+  }
+
+  // Returns the total number of vampires that exist
+  get totalDescendents() {
+
+  }
+
+  // Returns an array of all the vampires that were converted after 1980
+  get allMillennialVampires() {
+
+  }
+
+
+
+
+
 }
 
 module.exports = Vampire;
